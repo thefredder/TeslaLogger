@@ -203,6 +203,7 @@ Supercharger DE-Herboltzheim, 48.22704, 7.75368
 Supercharger-V3 DE-Hermsdorf, 50.889889,11.871397, 30
 Supercharger-V3 DE-Herrieden, 49.257951,10.501761
 Supercharger-V3 DE-Herzsprung, 53.067341,12.533227,20
+Supercharger-V3 DE-Herzsprung, 53.06722,12.533004
 Supercharger DE-Herzsprung, 53.067341,12.533227,20
 Supercharger DE-Hilden, 51.191193,6.936986, 30
 Supercharger-V3 DE-Hilden, 51.19213, 6.935785, 10
@@ -351,6 +352,7 @@ Supercharger DE-Zella-Mehlis, 50.64387, 10.68488
 Supercharger-V3 DE-Zusmarshausen, 48.407771,10.599446, 25
 Supercharger DK-Aarhus, 56.178223, 10.139406
 Supercharger-V3 DK-Esbjerg, 55.465678, 8.4418333, 25
+Supercharger-V3 DK-Fredericia, 55.534468, 9.716930
 Supercharger DK-Haverslev, 56.783428, 9.69082
 Supercharger DK-Hedensted, 55.786395, 9.667926
 Supercharger DK-Hjørring, 57.455791, 10.04227
@@ -366,6 +368,7 @@ Supercharger DK-Randers, 56.433685, 10.055412
 Supercharger DK-Rødekro, 55.067331, 9.361081, 20
 Supercharger DK-Rødekro, 55.068085, 9.360869, 20
 Supercharger DK-Slagelse, 55.387922, 11.361762
+Supercharger-V3 DK-Taastrup-City 2, 55.643017, 12.274896
 Supercharger ES-Aguadulce, 37.256871, -4.986068
 Supercharger ES-Albacete, 39.134675, -2.039013
 Supercharger ES-Almaraz, 39.791255, -5.695668
@@ -854,8 +857,10 @@ Supercharger SE-Jäckvik, 66.39067, 16.964868
 Supercharger-V3 SE-Jokkmokk, 66.605774,19.824993
 Supercharger-V3 SE-Jönköping,57.772741,14.199840
 Supercharger SE-Kalmar, 56.673228, 16.321408
+Supercharger-V3 SE-Kalmar Giraffen, 56.671424,16.333902
 Supercharger SE-Karlstad, 59.381535, 13.467609
 Supercharger SE-Kristianstad, 56.023216, 14.11831
+Supercharger-V3 SE-Kristianstad, 56.024912, 14.116783
 Supercharger-V3 SE-Kristinehamn, 59.31478, 14.147392
 Supercharger SE-Krokom, 63.328793, 14.4301
 Supercharger SE-Kungälv, 57.8581639, 11.9982719
@@ -1217,6 +1222,7 @@ Tesla Service Center DE-Duisburg,51.476498,6.794394
 Tesla Service Center DE-Feldkirchen, 48.145579, 11.741758
 Tesla Service Center DE-Frankfurt, 50.13310, 8.76581
 Tesla Service Center DE-Hamburg, 53.668606, 9.99489
+Tesla Service Center DE-Hamburg Wandsbek, 53.586712,10.097773
 Tesla Service Center DE-Kirchheim, 48.15108, 11.74895
 Tesla Service Center DE-Mannheim, 49.444340, 8.574597
 Tesla Service Center DE-Nürnberg,  49.463634, 11.127495
